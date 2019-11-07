@@ -1,3 +1,3 @@
-#Calculadora
+#CalculadoraFXML Joel Couto Lugo
 
-Programa de calculadora básica realizado con Java.
+Calculadora con fxml.
